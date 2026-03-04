@@ -1,0 +1,12 @@
+{
+  "id": "skill-code-review",
+  "name": "Code Review",
+  "version": "1.0.0",
+  "description": "Systematic code review with security, performance, and quality analysis",
+  "author": "Stratus Labs",
+  "type": "skill",
+  "category": "development",
+  "icon": "checkmark.shield.fill",
+  "capabilities": [],
+  "tags": ["code-review", "security", "quality", "development"]
+}
